@@ -8,7 +8,7 @@ import streamlit as st
 
 # Tambahkan konten Streamlit di sini
 
-st.markdown("<h1 style = 'text-align : center; color : white; font_size : 40 px; font-family : Arial'><b>Simple Stock Prediction<b></h1>", unsafe_allow_html= True)
+st.markdown("<h1 style = 'text-align : center; color : black; font_size : 40 px; font-family : Arial'><b>Simple Stock Prediction<b></h1>", unsafe_allow_html= True)
 st.markdown("------")
 st.markdown("Created by [Raffi Ainul Afif](https://www.linkedin.com/in/raffi-ainul-afif-9811a411b/)")
 
